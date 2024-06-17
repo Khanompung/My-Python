@@ -9,6 +9,6 @@ elif S >= 60 and S <= 69:
 elif S >= 50 and S <= 59:
     print("เกรด D")
 elif S >= 0 and S <= 49:
-    print("เกรด F")    
+    print("เกรด F")
 else:
     print("กรุณากรอกข้อมูลใหม่ให้ถูกต้อง 0-100")
